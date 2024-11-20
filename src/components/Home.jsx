@@ -47,7 +47,7 @@ function Home() {
                     <FaYoutube />
                   </li>
                   <li className='text-2xl cursor-pointer md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]'>
-                     <a href="www.linkedin.com/in/rupa-bharti-1a2b5a252"><FaLinkedin /></a>
+                     <a href="https://www.linkedin.com/in/rupa-bharti-1a2b5a252"><FaLinkedin /></a>
                   </li>
                   <li className='text-2xl cursor-pointer md:text-3xl hover:scale-110 duration-200 rounded-full border-[2px]'>
                     <BsTelegram />
