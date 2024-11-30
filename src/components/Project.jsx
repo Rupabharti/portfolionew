@@ -16,6 +16,13 @@ const Project = () => {
       repo: "https://github.com/yourusername/bibliobyte",
       
     },
+     {name: "rock paper scissors game",
+      description: " In the Rock Paper Scissors game, the user selects an option (Rock, Paper, or Scissors), and the computer randomly chooses one. If both choices match, the user wins; otherwise, the computer wins. ",
+      tech: "html,css,javascript",
+      liveDemo: "https://rockpaperscissorsgame111.netlify.app/",
+      repo: "https://github.com/yourusername/rockpaperscissors",
+      
+    },
     {
        
         name: "StudyNotion",
