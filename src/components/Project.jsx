@@ -23,6 +23,13 @@ const Project = () => {
       repo: "https://github.com/yourusername/rockpaperscissors",
       
     },
+     {name: "Corrency convter",
+      description: "A simple tool to convert currencies in real-time. Just select the currencies, enter the amount, and get the converted value instantly using live exchange rates. ",
+      tech: "html,css,javascript,API",
+      liveDemo: "https://lighthearted-strudel-bc7814.netlify.app/",
+      repo: "https://github.com/Rupabharti/Corrency-convter",
+      
+    },
     {
        
         name: "StudyNotion",
